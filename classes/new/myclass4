@@ -1,0 +1,4 @@
+class myclass4
+bandwidth percent 50
+shape average  35
+set ip dscp AF23

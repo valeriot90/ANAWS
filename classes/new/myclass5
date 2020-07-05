@@ -1,0 +1,5 @@
+class myclass5
+bandwidth percent 100
+random-detect
+no random-detect precedence-based
+set ip dscp AF23

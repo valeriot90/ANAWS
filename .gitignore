@@ -1,0 +1,7 @@
+/.metadata/
+/bin/
+*.class
+.classpath
+dhclient.pid
+.project
+*[tT]est.java

@@ -1,0 +1,5 @@
+class myclass3
+bandwidth percent 100
+shape average  20
+random-detect
+no random-detect precedence-based

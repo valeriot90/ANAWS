@@ -1,0 +1,3 @@
+class WEB
+ bandwidth percent 5
+ queue-limit 20 packets

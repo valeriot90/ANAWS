@@ -1,0 +1,5 @@
+class myclass6
+bandwidth percent 100
+bandwidth percent 50
+no random-detect precedence-based
+set ip dscp AF23
