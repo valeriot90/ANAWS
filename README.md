@@ -1,5 +1,5 @@
 # ANAWSProject Brief Description
-This is a project written by me, Valerio Tanferna and Dario Figliuzzi for configuring DiffServ on cisco router via ssh using sshj.
+This is a project written by Giuliano Peraz, Valerio Tanferna and Dario Figliuzzi for configuring DiffServ on cisco router via ssh using sshj.
 
 # DEPENDENCIES
 This project is based on sshj and its dependencies:
